@@ -1,3 +1,3 @@
 # Simulation-of-Three-Body-Problem-Using-Euler-Cromer-Method
 
-See the comments at the top of the MATLAB code and the included pdf for details about this program.
+Designed a simulation of the three-body problem based on the Euler-Cromer method in MATLAB, simulating the Sun, Earth, and Jupiter and assigning the bodies different masses.
